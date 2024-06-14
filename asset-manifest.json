@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ivandom1235/metashotblog2.git/static/css/main.b5d5f3c8.css",
+    "main.js": "/ivandom1235/metashotblog2.git/static/js/main.973f3125.js",
+    "static/js/453.6ca96cb1.chunk.js": "/ivandom1235/metashotblog2.git/static/js/453.6ca96cb1.chunk.js",
+    "static/media/hori1.jpg": "/ivandom1235/metashotblog2.git/static/media/hori1.d736651117f444c62446.jpg",
+    "static/media/photo3.jpg": "/ivandom1235/metashotblog2.git/static/media/photo3.93b289cd301eee87b4fd.jpg",
+    "static/media/photo4.jpg": "/ivandom1235/metashotblog2.git/static/media/photo4.279cee8ff7dfb62d6de9.jpg",
+    "static/media/photo7.jpg": "/ivandom1235/metashotblog2.git/static/media/photo7.79843c4a27eed8e875c1.jpg",
+    "static/media/photo8.jpg": "/ivandom1235/metashotblog2.git/static/media/photo8.20b184ffc812265fd52b.jpg",
+    "index.html": "/ivandom1235/metashotblog2.git/index.html",
+    "main.b5d5f3c8.css.map": "/ivandom1235/metashotblog2.git/static/css/main.b5d5f3c8.css.map",
+    "main.973f3125.js.map": "/ivandom1235/metashotblog2.git/static/js/main.973f3125.js.map",
+    "453.6ca96cb1.chunk.js.map": "/ivandom1235/metashotblog2.git/static/js/453.6ca96cb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5d5f3c8.css",
+    "static/js/main.973f3125.js"
+  ]
+}
